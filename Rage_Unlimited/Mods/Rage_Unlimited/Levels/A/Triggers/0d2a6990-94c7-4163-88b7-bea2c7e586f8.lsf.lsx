@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="0d2a6990-94c7-4163-88b7-bea2c7e586f8" />
+					<attribute id="Name" type="LSString" value="StartPoint_000__000" />
+					<attribute id="LevelName" type="FixedString" value="A" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="TemplateName" type="FixedString" value="e1dd1fce-eb20-4824-b232-5a78344351b1" />
+					<attribute id="Flag" type="uint8" value="1" />
+					<attribute id="Player" type="uint8" value="0" />
+					<attribute id="Angle" type="float" value="-1" />
+					<children>
+						<node id="Transform">
+							<attribute id="Scale" type="float" value="1" />
+							<attribute id="Position" type="fvec3" value="3.0045905 -2.3841858E-07 1.4963655" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="f5d3a5ab-531a-1acb-848c-ec9997c1eb55" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="FadeChildren" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

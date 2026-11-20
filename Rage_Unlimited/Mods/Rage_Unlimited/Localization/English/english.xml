@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h28685afcg44f9gd426g8923gd10570a965cc" version="1">Rage</content>
+  <content contentuid="hb013d8f6g8cdegfb5cg89c4g7ec50766bd17" version="1">Deal [1] extra damage with melee and improvised weapons, and throwing.</content>
+  <content contentuid="hf95ca72fgcfb2gdb63g7b52gd4466258495c" version="1">Gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h0a94ad95g75fag2797g5ef6g1b5aaabf51b2" version="1">Frenzy</content>
+  <content contentuid="h42c75c73g2628g7285g6614ge8b5811797f0" version="1">Your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; turns into a frenzy! You gain &lt;LSTag Type="Spell" Tooltip="Target_FrenziedStrike"&gt;Frenzied Strike&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Throw_FrenziedThrow"&gt;Enraged Throw&lt;/LSTag&gt;. You can also make an &lt;LSTag Type="Spell" Tooltip="Throw_ImprovisedWeaponBerserker"&gt;Improvised Weapon Attack&lt;/LSTag&gt; as a bonus action.</content>
+  <content contentuid="hc4965e55g2e62g3cacg3c1age00b8acb39e1" version="1">Rage: Bear Heart</content>
+  <content contentuid="h8f470961g35e3g1df3gc6ffg423cddb39ca2" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; that makes you tough enough to stand up to any punishment.</content>
+  <content contentuid="h987c1f65gb7b6ga143gdcc3gf894f46e8e6a" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Shout_FerociousAppetite"&gt;Unrelenting Ferocity&lt;/LSTag&gt;, and have Resistance to all damage except Psychic damage.</content>
+  <content contentuid="h10c60381gb1a5g0392ge699g85c281f447be" version="1">Rage: Eagle Heart</content>
+  <content contentuid="ha27e4b10g0541g0129g4eceg56560daa11ee" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; that makes you near untouchable. </content>
+  <content contentuid="haf3a1b12g63dfg7905g418bg0b1e0eeea2e4" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Projectile_DivingStrike"&gt;Diving Strike&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Foes also have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; against you, and you can use &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt; as a bonus action.</content>
+  <content contentuid="hfd24c607gcd3cga1feg3b1eg90913952e4bb" version="1">Rage: Elk Heart</content>
+  <content contentuid="h0caef283gb041g221eg3015g9c5f82c2b218" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; that grants you extraordinary swiftness.</content>
+  <content contentuid="h59eda0d8g655cg1f40g65a0g431803cde83f" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Rush_Primal_Stampede"&gt;Primal Stampede&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1]. </content>
+  <content contentuid="hc7f2c56fg87b4g9693g5c93g24742d5d6b8a" version="1">Rage: Tiger Heart</content>
+  <content contentuid="h23bda0a3gff48gda4dgbdb1ga32af7a9375d" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; that empowers your leaps.</content>
+  <content contentuid="he82669e4g7f0cgb64fg8dd6g149e0b26092d" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Zone_TigersBloodlust"&gt;Tiger's Bloodlust&lt;/LSTag&gt;, and your jump distance increases by [1].</content>
+  <content contentuid="hbfa6efb6g29a1g5209gac3bg3cfa0149fb06" version="1">Rage: Wolf Heart</content>
+  <content contentuid="he0d329e5g2bfbgad02gb7e6g56470cacc815" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; so inciting it spurs on your allies.</content>
+  <content contentuid="h60c9e8f0gb77ag9ebfg6eb0g7d763428139d" version="1">You can use &lt;LSTag Type="Spell" Tooltip="Shout_PackHowl_Barbarian"&gt;Inciting Howl&lt;/LSTag&gt;, and your allies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies within [1] of you.</content>
+  <content contentuid="hbd21f7f6gbf67gd7cdgdd8aga92bdf2aafb4" version="1">Invisibility</content>
+  <content contentuid="h44e897fcg3c03gcafcgdf64g7d9846bf9d8e" version="1">Become Invisible.</content>
+  <content contentuid="hcf628a9dg2444g594bg703eg2e524b7e2163" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; that releases all the magic roiling inside of you, causing a random magical effect.</content>
+  <content contentuid="hf8dd9ee6gc72eg74f6g433cga2e3d8f84e14" version="1">Rage: Wild Magic</content>
+  <content contentuid="h3550c2e8g38e2g1438ge3bfg4ac48b0af603" version="1">Giant's Rage</content>
+  <content contentuid="h973f241bgf45eg121ag39dcg62612f78db08" version="1">Enter a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt; and increase in size. Your Rage damage bonus is doubled on Throw attacks.</content>
+  <content contentuid="he10b5022gf235g7661g2e0bg4a14274c9627" version="1">Rage Ended</content>
+  <content contentuid="h0593f455g8c94ga4ecgea0dgce2ecbf0f390" version="1">%%% Rage Mute</content>
+  <content contentuid="h9081680cg92a5gde8dgc3f4g7ba4c17074b3" version="1">%%% Technical status; doesn't need to be destubbed.</content>
+  <content contentuid="h25df63beg6cc6gab46g3502gc71d1810c97a" version="1">Frenzied</content>
+  <content contentuid="h83dac807gb5ccgaac2gb6b4g7e4e62ce30e7" version="1">Deals an additional [1] damage with melee and improvised weapons, and when throwing objects.&lt;br&gt;&lt;br&gt;Also has Resistance to physical damage, and Advantage on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="hd4b6d661g21f5gbcebgf578g657c415eb5ad" version="1">Frenzied Strain</content>
+  <content contentuid="h70f7d389g3b5cg7a4cg264cg84b3568d2a66" version="1">Using Frenzied Strike adds a penalty to Attack Rolls every time, stacking so that you miss more often. This adds up until the end of your Frenzy.</content>
+  <content contentuid="h4656ae54ga48fg60b1g8dadgdcaf4c94f174" version="1">%%% Rage Remove</content>
+  <content contentuid="h28ad82e1g87b5g049bg82d2g9a1315c12978" version="1">%%% Used to stop the removal of Rage - tecnical status, don't destub.</content>
+  <content contentuid="h2565667cg7956g48e3gd245g5c1407f283bd" version="1">Rage: Bear Heart</content>
+  <content contentuid="h82489986gcb96ge8d7g6347g41a5b34a7bdd" version="1">Deals an additional [1] damage with melee and improvised weapons, and when throwing objects.&lt;br&gt;&lt;br&gt;Has Resistance to all damage except Psychic damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="h81aee9d2gd01cgae32g8f17gfae251b04832" version="1">%%% Rage Bear heal toggle</content>
+  <content contentuid="h2813c8e3g09f8g7403gb8b1g4ef61db2285b" version="1">%%% Tech status to leat bear barbarians heal only once per rage</content>
+  <content contentuid="ha38ca6d0g8559gee38g8fe1g2ac141ed42f3" version="1">Rage: Elk Heart</content>
+  <content contentuid="h2cf1a439g9491gda34gb9d5g8645f742d692" version="1">Deals an additional [1] damage with melee and improvised weapons, and when throwing objects.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increased by [2].&lt;br&gt;&lt;br&gt;Also has Resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="h8e66fa52gbed3g0532gb736g3410c965f31b" version="1">Rage: Tiger Heart</content>
+  <content contentuid="hc387c23bg50bbg46d4g69aaga10b5775f997" version="1">Deals an additional [1] damage with melee and improvised weapons, and when throwing objects. &lt;br&gt;&lt;br&gt;Jump distance increased by [2].&lt;br&gt;&lt;br&gt;Also has Resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="h1f148cb7g2a73g949cge049g288399c83e1c" version="1">Rage: Wolf Heart</content>
+  <content contentuid="hd1d5296cg3901gb273g10aagc4f63123458d" version="1">Deals an additional [1] damage with melee and improvised weapons, and when throwing objects. &lt;br&gt;&lt;br&gt;Allies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against enemies within [2].&lt;br&gt;&lt;br&gt;Also has Resistance to physical damage, and Advantage on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+  <content contentuid="hc1d3fc9bg6e09gcf70g00f6g7b3c920b4dd8" version="1">Rage: Wolf Heart's Prey</content>
+  <content contentuid="h7da8e035g3c7fg0898g0b1cg5850e23d0326" version="1">Standing near a Raging Wolf Heart barbarian. &lt;br&gt;&lt;br&gt;The barbarian's allies have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on melee &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt; against this creature.</content>
+  <content contentuid="h7422d335gc862g315bgc0c9gffaf560e9ad9" version="1">Rage Impeded</content>
+  <content contentuid="h84f216d5gc565g14a8g841ag6aa7a6aeeb08" version="1">Weighed down by Heavy Armour. Until the armour is removed, &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Raging&lt;/LSTag&gt; won't grant extra damage, resistance to physical damage, or &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h7d0238abg0830g316cge222g5cf5b927d1d9" version="1">%%% Rage no heavy amrour VFX</content>
+  <content contentuid="h0c12a28bg4ee8g8748g3077ga37da71221c2" version="1">%%% Technical status used for addtional VFX for rage when there is no heavy amrour</content>
+  <content contentuid="h3471cb76gccc3g4921g010bg392760e2d7db" version="1">%%% Frenzy no heavy amrour VFX</content>
+  <content contentuid="ha96224e5gceecg73f1g7822gdb2a519ebccd" version="1">%%% Bear Totem Rage no heavy amrour VFX</content>
+  <content contentuid="h855996eag680cg097dg82b7g5dd2d21b735c" version="1">%%% Eagle Totem Rage no heavy amrour VFX</content>
+  <content contentuid="hb983aa79g3defgd37eg2385g645d3d8a88f2" version="1">%%% Elk Totem Rage no heavy amrour VFX</content>
+  <content contentuid="hf0fed90ag9319g44f6g9638g397be850dccb" version="1">%%% Tiger Totem Rage no heavy amrour VFX</content>
+  <content contentuid="h15e31b58gb97bg650fg8d7dg88336a1ba981" version="1">%%% Wolf Totem Rage no heavy amrour VFX</content>
+  <content contentuid="h1234d5eeg5b9fg581dgd904g65e4f977d155" version="1">Rage</content>
+  <content contentuid="hde9eee8bgd5d4g09c3gd0eaga3aeb1162704" version="1">Deals an additional [1] damage with melee and improvised weapons, and while throwing objects.&lt;br&gt;&lt;br&gt;Has Resistance to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Cannot cast or concentrate on spells.</content>
+</contentList>
